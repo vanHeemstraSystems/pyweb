@@ -15,6 +15,13 @@ Based on "Harness CI With AWS VMs" at https://harness.io/blog/continuous-integra
 
 Harness CI recently added beta support for AWS virtual machines (VMs). This addition means that CI builds can run on either a Kubernetes cluster or AWS VM in the Harness platform. In this post, we’ll explore the features supported in AWS VMs and explore their design and architecture.
 
+Based on "Launch a Linux Virtual Machine with Amazon Lightsail" at https://aws.amazon.com/getting-started/hands-on/launch-a-virtual-machine/
+
+Video: "Amazon Lightsail Tutorial: Launch a Linux Instance" at https://www.youtube.com/watch?v=e_AmFP1jhNo
+
+
+
+
 ## 300 - Build on Kubernetes
 
 ...
