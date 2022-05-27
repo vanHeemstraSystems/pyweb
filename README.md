@@ -23,6 +23,6 @@ Based on "Launch a Linux Virtual Machine with Amazon Lightsail" at https://aws.a
 
 Video: "Amazon Lightsail Tutorial: Launch a Linux Instance" at https://www.youtube.com/watch?v=e_AmFP1jhNo
 
-## 300 - Build on Kubernetes
+## 400 - Build on Kubernetes
 
 ...
